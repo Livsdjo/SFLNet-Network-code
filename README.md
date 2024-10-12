@@ -1,6 +1,6 @@
 ## SFLNet implementation
 
-Pytorch implementation of FCRNet for paper "FCRNet:learning non-linear correspondences variation via a graph-based feature embedding for false correspondence removal", by Ruiyuan Li and ZhaoLin Xiao.
+Pytorch implementation of SFLNet for paper "SFLNet: Graph Structure Learning via Spatial-Frequency Domain Loss for False Correspondence Removal", by Ruiyuan Li and ZhaoLin Xiao.
 
 ## Requirements & Compilation
 
